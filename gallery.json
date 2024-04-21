@@ -1,7 +1,0 @@
-{
-    "images": [
-        {"url": "image1.jpg", "alt": "Image 1"},
-        {"url": "image2.jpg", "alt": "Image 2"},
-        {"url": "image3.jpg", "alt": "Image 3"}
-    ]
-}
