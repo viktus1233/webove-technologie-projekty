@@ -1,0 +1,20 @@
+{
+  "images": [
+    {
+      "title": "Apartment 1",
+      "url": "images/apartment1.jpg",
+      "thumbnail": "images/apartment1_thumb.jpg"
+    },
+    {
+      "title": "Apartment 2",
+      "url": "images/apartment2.jpg",
+      "thumbnail": "images/apartment2_thumb.jpg"
+    },
+    {
+      "title": "Apartment 3",
+      "url": "images/apartment3.jpg",
+      "thumbnail": "images/apartment3_thumb.jpg"
+    }
+    // Ďalšie obrázky
+  ]
+}
