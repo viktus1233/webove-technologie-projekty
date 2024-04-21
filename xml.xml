@@ -1,0 +1,44 @@
+<vehicles>
+    <car>
+        <brand>Audi</brand>
+        <model>A4</model>
+        <year>2020</year>
+        <engine>
+            <type>Petrol</type>
+            <capacity>2.0L</capacity>
+        </engine>
+        <features>
+            <feature>Automatic transmission</feature>
+            <feature>Leather seats</feature>
+            <feature>Navigation system</feature>
+        </features>
+    </car>
+    <car>
+        <brand>BMW</brand>
+        <model>3 Series</model>
+        <year>2019</year>
+        <engine>
+            <type>Diesel</type>
+            <capacity>2.5L</capacity>
+        </engine>
+        <features>
+            <feature>Manual transmission</feature>
+            <feature>Sunroof</feature>
+            <feature>Bluetooth connectivity</feature>
+        </features>
+    </car>
+    <motorcycle>
+        <brand>Yamaha</brand>
+        <model>YZF-R6</model>
+        <year>2021</year>
+        <engine>
+            <type>Gasoline</type>
+            <capacity>600cc</capacity>
+        </engine>
+        <features>
+            <feature>ABS</feature>
+            <feature>LED headlights</feature>
+            <feature>Adjustable suspension</feature>
+        </features>
+    </motorcycle>
+</vehicles>
